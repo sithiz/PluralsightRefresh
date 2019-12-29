@@ -1,3 +1,3 @@
 # PluralsightRefresh
 
-Just a clean refresher on making a development enviroment on a new machine
+Just a clean refresher invloving set-up of a development enviroment on a new machine
